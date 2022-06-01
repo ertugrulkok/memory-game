@@ -1,0 +1,9 @@
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    border: 2px solid blue;
+    transition: transform 0.5s linear;
+}
